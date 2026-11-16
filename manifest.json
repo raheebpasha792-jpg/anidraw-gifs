@@ -1,5 +1,5 @@
 {
-    "updatedAt":  "2026-11-16T08:49:58.947Z",
+    "updatedAt":  "2026-11-16T09:08:33.082Z",
     "files":  [
                   {
                       "id":  "anidraw-gif-01",
@@ -1220,6 +1220,16 @@
                       "variant":  "",
                       "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-02.gif",
                       "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "monster-gif-01-original",
+                      "group":  "anime",
+                      "variant":  "original",
+                      "title":  "Monster Gif #01",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/monster-gif-01-original.gif",
+                      "type":  "gif",
+                      "show":  "Monster",
+                      "updatedAt":  "2026-11-16T09:08:33.082Z"
                   }
               ]
 }
