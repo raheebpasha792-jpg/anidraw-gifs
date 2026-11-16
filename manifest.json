@@ -1,745 +1,1225 @@
 {
-  "updatedAt": "2026-11-15T20:40:36.337Z",
-  "files": [
-    {
-      "id": "anidraw-gif-01",
-      "title": "AniDraw Gif #01",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-05",
-      "title": "AniDraw Gif #05",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-05.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-09",
-      "title": "AniDraw Gif #09",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-09.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-13",
-      "title": "AniDraw Gif #13",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-13.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-15",
-      "title": "AniDraw Gif #15",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-15.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-18",
-      "title": "AniDraw Gif #18",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-18.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-19",
-      "title": "AniDraw Gif #19",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-19.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-20",
-      "title": "AniDraw Gif #20",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-20.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-21",
-      "title": "AniDraw Gif #21",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-21.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-22",
-      "title": "AniDraw Gif #22",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-22.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-23",
-      "title": "AniDraw Gif #23",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-23.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-24",
-      "title": "AniDraw Gif #24",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-24.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-25",
-      "title": "AniDraw Gif #25",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-25.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-26",
-      "title": "AniDraw Gif #26",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-26.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-27",
-      "title": "AniDraw Gif #27",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-27.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-28",
-      "title": "AniDraw Gif #28",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-28.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-29",
-      "title": "AniDraw Gif #29",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-29.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anidraw-gif-30",
-      "title": "AniDraw Gif #30",
-      "show": "AniDraw",
-      "type": "gif",
-      "group": "anidraw",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-30.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-01",
-      "title": "Animals Gif #01",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-01.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-02",
-      "title": "Animals Gif #02",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-02.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-03",
-      "title": "Animals Gif #03",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-03.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-04",
-      "title": "Animals Gif #04",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-04.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-05",
-      "title": "Animals Gif #05",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-05.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "animals-gif-06",
-      "title": "Animals Gif #06",
-      "show": "Animals",
-      "type": "gif",
-      "group": "animals",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-06.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "anpanman-gif-01",
-      "title": "Anpanman Gif #01",
-      "show": "Anpanman",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/anpanman-gif-01.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "baki-hanma-gif-01",
-      "title": "Baki Hanma Gif #01",
-      "show": "Baki Hanma",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/baki-hanma-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "baki-hanma-gif-02",
-      "title": "Baki Hanma Gif #02",
-      "show": "Baki Hanma",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/baki-hanma-gif-02.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "blue-lock-gif-01",
-      "title": "Blue Lock Gif #01",
-      "show": "Blue Lock",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/blue-lock-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "blue-lock-gif-02",
-      "title": "Blue Lock Gif #02",
-      "show": "Blue Lock",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/blue-lock-gif-02.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "car-gif-01",
-      "title": "Car Gif #01",
-      "show": "Car",
-      "type": "gif",
-      "group": "vehicles",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/car-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-04",
-      "title": "Doraemon Gif #04",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-04.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-05",
-      "title": "Doraemon Gif #05",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-05.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-06",
-      "title": "Doraemon Gif #06",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-06.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-07",
-      "title": "Doraemon Gif #07",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-07.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-10",
-      "title": "Doraemon Gif #10",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-10.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "doraemon-gif-11",
-      "title": "Doraemon Gif #11",
-      "show": "Doraemon",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-11.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "dragon-ball-gif-03",
-      "title": "Dragon Ball Gif #03",
-      "show": "Dragon Ball",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/dragon-ball-gif-03.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "gon-the-stone-age-boy-gif-01",
-      "title": "Gon the Stone Age Boy Gif #01",
-      "show": "Gon the Stone Age Boy",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/gon-the-stone-age-boy-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "gon-the-stone-age-boy-gif-02",
-      "title": "Gon the Stone Age Boy Gif #02",
-      "show": "Gon the Stone Age Boy",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/gon-the-stone-age-boy-gif-02.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "hagemaru-gif-01",
-      "title": "Hagemaru Gif #01",
-      "show": "Hagemaru",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/hagemaru-gif-01.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "naruto-gif-01",
-      "title": "Naruto Gif #01",
-      "show": "Naruto",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/naruto-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-01",
-      "title": "One Piece Gif #01",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-01.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-02",
-      "title": "One Piece Gif #02",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-02.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-04",
-      "title": "One Piece Gif #04",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-04.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-05",
-      "title": "One Piece Gif #05",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-05.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-06",
-      "title": "One Piece Gif #06",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-06.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "one-piece-gif-07",
-      "title": "One Piece Gif #07",
-      "show": "One Piece",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-07.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "perman-gif-01",
-      "title": "Perman Gif #01",
-      "show": "Perman",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/perman-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "samay-rahana-gif-01",
-      "title": "Samay Rahana Gif #01",
-      "show": "Samay Rahana",
-      "type": "gif",
-      "group": "series",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/samay-rahana-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shaktimaan-gif-01",
-      "title": "Shaktimaan Gif #01",
-      "show": "Shaktimaan",
-      "type": "gif",
-      "group": "series",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shaktimaan-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-03",
-      "title": "Shin-chan Gif #03",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-03.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-04",
-      "title": "Shin-chan Gif #04",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-04.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-06",
-      "title": "Shin-chan Gif #06",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-06.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-07",
-      "title": "Shin-chan Gif #07",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-07.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-08",
-      "title": "Shin-chan Gif #08",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-08.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-09",
-      "title": "Shin-chan Gif #09",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-09.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-11",
-      "title": "Shin-chan Gif #11",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-11.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-15",
-      "title": "Shin-chan Gif #15",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-15.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-16",
-      "title": "Shin-chan Gif #16",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-16.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-17",
-      "title": "Shin-chan Gif #17",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-17.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-20",
-      "title": "Shin-chan Gif #20",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-20.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-21",
-      "title": "Shin-chan Gif #21",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-21.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-22",
-      "title": "Shin-chan Gif #22",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-22.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-26",
-      "title": "Shin-chan Gif #26",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-26.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-27",
-      "title": "Shin-chan Gif #27",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-27.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-28",
-      "title": "Shin-chan Gif #28",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-28.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-29",
-      "title": "Shin-chan Gif #29",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-29.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-30",
-      "title": "Shin-chan Gif #30",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-30.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-31",
-      "title": "Shin-chan Gif #31",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-31.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-34",
-      "title": "Shin-chan Gif #34",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-34.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-35",
-      "title": "Shin-chan Gif #35",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-35.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "shin-chan-gif-36",
-      "title": "Shin-chan Gif #36",
-      "show": "Shin-chan",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-36.gif",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "solo-levelling-gif-01",
-      "title": "Solo Levelling Gif #01",
-      "show": "Solo Levelling",
-      "type": "gif",
-      "group": "anime",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/solo-levelling-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    },
-    {
-      "id": "the-mask-gif-01",
-      "title": "The Mask Gif #01",
-      "show": "The Mask",
-      "type": "gif",
-      "group": "movies-and-series",
-      "variant": "",
-      "url": "https://raheebpasha792-jpg.github.io/anidraw-gifs/the-mask-gif-01.webp",
-      "updatedAt": "2026-11-15T18:12:24.803Z"
-    }
-  ]
+    "updatedAt":  "2026-11-16T08:49:58.947Z",
+    "files":  [
+                  {
+                      "id":  "anidraw-gif-01",
+                      "title":  "AniDraw Gif #01",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-05",
+                      "title":  "AniDraw Gif #05",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-05.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-09",
+                      "title":  "AniDraw Gif #09",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-09.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-13",
+                      "title":  "AniDraw Gif #13",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-13.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-15",
+                      "title":  "AniDraw Gif #15",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-15.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-18",
+                      "title":  "AniDraw Gif #18",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-18.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-19",
+                      "title":  "AniDraw Gif #19",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-19.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-20",
+                      "title":  "AniDraw Gif #20",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-20.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-21",
+                      "title":  "AniDraw Gif #21",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-21.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-22",
+                      "title":  "AniDraw Gif #22",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-22.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-23",
+                      "title":  "AniDraw Gif #23",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-23.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-24",
+                      "title":  "AniDraw Gif #24",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-24.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-25",
+                      "title":  "AniDraw Gif #25",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-25.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-26",
+                      "title":  "AniDraw Gif #26",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-26.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-27",
+                      "title":  "AniDraw Gif #27",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-27.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-28",
+                      "title":  "AniDraw Gif #28",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-28.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-29",
+                      "title":  "AniDraw Gif #29",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-29.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-30",
+                      "title":  "AniDraw Gif #30",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-30.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-01",
+                      "title":  "Animals Gif #01",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-01.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-02",
+                      "title":  "Animals Gif #02",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-02.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-03",
+                      "title":  "Animals Gif #03",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-03.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-04",
+                      "title":  "Animals Gif #04",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-04.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-05",
+                      "title":  "Animals Gif #05",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-05.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "animals-gif-06",
+                      "title":  "Animals Gif #06",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-06.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anpanman-gif-01",
+                      "title":  "Anpanman Gif #01",
+                      "show":  "Anpanman",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anpanman-gif-01.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "baki-hanma-gif-01",
+                      "title":  "Baki Hanma Gif #01",
+                      "show":  "Baki Hanma",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/baki-hanma-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "baki-hanma-gif-02",
+                      "title":  "Baki Hanma Gif #02",
+                      "show":  "Baki Hanma",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/baki-hanma-gif-02.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "blue-lock-gif-01",
+                      "title":  "Blue Lock Gif #01",
+                      "show":  "Blue Lock",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/blue-lock-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "blue-lock-gif-02",
+                      "title":  "Blue Lock Gif #02",
+                      "show":  "Blue Lock",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/blue-lock-gif-02.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "car-gif-01",
+                      "title":  "Car Gif #01",
+                      "show":  "Car",
+                      "type":  "gif",
+                      "group":  "vehicles",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/car-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-04",
+                      "title":  "Doraemon Gif #04",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-04.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-05",
+                      "title":  "Doraemon Gif #05",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-05.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-06",
+                      "title":  "Doraemon Gif #06",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-06.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-07",
+                      "title":  "Doraemon Gif #07",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-07.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-10",
+                      "title":  "Doraemon Gif #10",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-10.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-11",
+                      "title":  "Doraemon Gif #11",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-11.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "dragon-ball-gif-03",
+                      "title":  "Dragon Ball Gif #03",
+                      "show":  "Dragon Ball",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/dragon-ball-gif-03.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "gon-the-stone-age-boy-gif-01",
+                      "title":  "Gon the Stone Age Boy Gif #01",
+                      "show":  "Gon the Stone Age Boy",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/gon-the-stone-age-boy-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "gon-the-stone-age-boy-gif-02",
+                      "title":  "Gon the Stone Age Boy Gif #02",
+                      "show":  "Gon the Stone Age Boy",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/gon-the-stone-age-boy-gif-02.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "hagemaru-gif-01",
+                      "title":  "Hagemaru Gif #01",
+                      "show":  "Hagemaru",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/hagemaru-gif-01.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "naruto-gif-01",
+                      "title":  "Naruto Gif #01",
+                      "show":  "Naruto",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/naruto-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-01",
+                      "title":  "One Piece Gif #01",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-01.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-02",
+                      "title":  "One Piece Gif #02",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-02.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-04",
+                      "title":  "One Piece Gif #04",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-04.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-05",
+                      "title":  "One Piece Gif #05",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-05.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-06",
+                      "title":  "One Piece Gif #06",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-06.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-07",
+                      "title":  "One Piece Gif #07",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-07.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "perman-gif-01",
+                      "title":  "Perman Gif #01",
+                      "show":  "Perman",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/perman-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "samay-rahana-gif-01",
+                      "title":  "Samay Rahana Gif #01",
+                      "show":  "Samay Rahana",
+                      "type":  "gif",
+                      "group":  "series",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/samay-rahana-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shaktimaan-gif-01",
+                      "title":  "Shaktimaan Gif #01",
+                      "show":  "Shaktimaan",
+                      "type":  "gif",
+                      "group":  "series",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shaktimaan-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-03",
+                      "title":  "Shin-chan Gif #03",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-03.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-04",
+                      "title":  "Shin-chan Gif #04",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-04.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-06",
+                      "title":  "Shin-chan Gif #06",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-06.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-07",
+                      "title":  "Shin-chan Gif #07",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-07.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-08",
+                      "title":  "Shin-chan Gif #08",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-08.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-09",
+                      "title":  "Shin-chan Gif #09",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-09.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-11",
+                      "title":  "Shin-chan Gif #11",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-11.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-15",
+                      "title":  "Shin-chan Gif #15",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-15.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-16",
+                      "title":  "Shin-chan Gif #16",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-16.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-17",
+                      "title":  "Shin-chan Gif #17",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-17.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-20",
+                      "title":  "Shin-chan Gif #20",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-20.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-21",
+                      "title":  "Shin-chan Gif #21",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-21.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-22",
+                      "title":  "Shin-chan Gif #22",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-22.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-26",
+                      "title":  "Shin-chan Gif #26",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-26.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-27",
+                      "title":  "Shin-chan Gif #27",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-27.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-28",
+                      "title":  "Shin-chan Gif #28",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-28.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-29",
+                      "title":  "Shin-chan Gif #29",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-29.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-30",
+                      "title":  "Shin-chan Gif #30",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-30.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-31",
+                      "title":  "Shin-chan Gif #31",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-31.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-34",
+                      "title":  "Shin-chan Gif #34",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-34.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-35",
+                      "title":  "Shin-chan Gif #35",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-35.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-36",
+                      "title":  "Shin-chan Gif #36",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-36.gif",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "solo-levelling-gif-01",
+                      "title":  "Solo Levelling Gif #01",
+                      "show":  "Solo Levelling",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/solo-levelling-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "the-mask-gif-01",
+                      "title":  "The Mask Gif #01",
+                      "show":  "The Mask",
+                      "type":  "gif",
+                      "group":  "movies-and-series",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/the-mask-gif-01.webp",
+                      "updatedAt":  "2026-11-15T18:12:24.803Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-12",
+                      "title":  "AniDraw Gif #12",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-12.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-01",
+                      "title":  "Shin-chan Gif #01",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-01.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-01",
+                      "title":  "Doraemon Gif #01",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-01.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-02",
+                      "title":  "Shin-chan Gif #02",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-02.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-17",
+                      "title":  "AniDraw Gif #17",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-17.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-05",
+                      "title":  "Shin-chan Gif #05",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-05.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-16",
+                      "title":  "AniDraw Gif #16",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-16.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-08",
+                      "title":  "AniDraw Gif #08",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-08.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "bleach-gif-02",
+                      "title":  "Bleach Gif #02",
+                      "show":  "Bleach",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/bleach-gif-02.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-06",
+                      "title":  "AniDraw Gif #06",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-06.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "great-teacher-onizuka-gif-02",
+                      "title":  "Great Teacher Onizuka Gif #02",
+                      "show":  "Great Teacher Onizuka",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/great-teacher-onizuka-gif-02.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-14",
+                      "title":  "AniDraw Gif #14",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-14.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-07",
+                      "title":  "AniDraw Gif #07",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-07.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-03",
+                      "title":  "Doraemon Gif #03",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-03.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "bleach-gif-01",
+                      "title":  "Bleach Gif #01",
+                      "show":  "Bleach",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/bleach-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "blast-gif-01",
+                      "title":  "Blast Gif #01",
+                      "show":  "Blast",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/blast-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-19",
+                      "title":  "Shin-chan Gif #19",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-19.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "animals-gif-07",
+                      "title":  "Animals Gif #07",
+                      "show":  "Animals",
+                      "type":  "gif",
+                      "group":  "animals",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/animals-gif-07.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "dragon-ball-gif-01",
+                      "title":  "Dragon Ball Gif #01",
+                      "show":  "Dragon Ball",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/dragon-ball-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "pokemon-gif-01",
+                      "title":  "Pok?mon Gif #01",
+                      "show":  "Pok?mon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/pokemon-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-18",
+                      "title":  "Shin-chan Gif #18",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-18.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-14",
+                      "title":  "Shin-chan Gif #14",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-14.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "dragon-ball-gif-02",
+                      "title":  "Dragon Ball Gif #02",
+                      "show":  "Dragon Ball",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/dragon-ball-gif-02.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-13",
+                      "title":  "Shin-chan Gif #13",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-13.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-02",
+                      "title":  "Doraemon Gif #02",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-02.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-25",
+                      "title":  "Shin-chan Gif #25",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-25.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-24",
+                      "title":  "Shin-chan Gif #24",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-24.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-04",
+                      "title":  "AniDraw Gif #04",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-04.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "one-piece-gif-03",
+                      "title":  "One Piece Gif #03",
+                      "show":  "One Piece",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/one-piece-gif-03.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "great-teacher-onizuka-gif-01",
+                      "title":  "Great Teacher Onizuka Gif #01",
+                      "show":  "Great Teacher Onizuka",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/great-teacher-onizuka-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-10",
+                      "title":  "Shin-chan Gif #10",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-10.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-23",
+                      "title":  "Shin-chan Gif #23",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-23.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "berserk-gif-01",
+                      "title":  "Berserk Gif #01",
+                      "show":  "Berserk",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/berserk-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-33",
+                      "title":  "Shin-chan Gif #33",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-33.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "monster-gif-01",
+                      "title":  "Monster Gif #01",
+                      "show":  "Monster",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/monster-gif-01.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "gadgets-gif-02",
+                      "title":  "Gadgets Gif #02",
+                      "show":  "Gadgets",
+                      "type":  "gif",
+                      "group":  "gadgets",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/gadgets-gif-02.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-37",
+                      "title":  "Shin-chan Gif #37",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-37.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-32",
+                      "title":  "Shin-chan Gif #32",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-32.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-03",
+                      "title":  "AniDraw Gif #03",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-03.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "shin-chan-gif-12",
+                      "title":  "Shin-chan Gif #12",
+                      "show":  "Shin-chan",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/shin-chan-gif-12.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "gadgets-gif-01",
+                      "title":  "Gadgets Gif #01",
+                      "show":  "Gadgets",
+                      "type":  "gif",
+                      "group":  "gadgets",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/gadgets-gif-01.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "gadgets-gif-03",
+                      "title":  "Gadgets Gif #03",
+                      "show":  "Gadgets",
+                      "type":  "gif",
+                      "group":  "gadgets",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/gadgets-gif-03.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-08",
+                      "title":  "Doraemon Gif #08",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-08.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-10",
+                      "title":  "AniDraw Gif #10",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-10.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "doraemon-gif-09",
+                      "title":  "Doraemon Gif #09",
+                      "show":  "Doraemon",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/doraemon-gif-09.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "monster-gif-02",
+                      "title":  "Monster Gif #02",
+                      "show":  "Monster",
+                      "type":  "gif",
+                      "group":  "anime",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/monster-gif-02.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-11",
+                      "title":  "AniDraw Gif #11",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-11.webp",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  },
+                  {
+                      "id":  "anidraw-gif-02",
+                      "title":  "AniDraw Gif #02",
+                      "show":  "AniDraw",
+                      "type":  "gif",
+                      "group":  "anidraw",
+                      "variant":  "",
+                      "url":  "https://raheebpasha792-jpg.github.io/anidraw-gifs/anidraw-gif-02.gif",
+                      "updatedAt":  "2026-11-16T08:49:58.947Z"
+                  }
+              ]
 }
